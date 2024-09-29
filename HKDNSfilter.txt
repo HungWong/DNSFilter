@@ -1,3 +1,5 @@
+block lists
+
 ||asdkd.tutuapp.com^$important
 ||rfrl.pw^$important
 ||track.clickhubs.com^$important
@@ -41,3 +43,18 @@
 ||firebaselogging-pa.googleapis.com^$important
 ||s0.2mdn.net^$important
 ||one-mobile-prod.aws.oath.cloud^$important
+||cpm.bidmyqps.xyz^$important
+
+allow list
+
+ir0.mobify.com
+js.kiwihk.net
+googleusercontent.com
+icloud-content.com
+torimochi.line-apps.com
+www.google-analytics.com
+www-google-analytics.l.google.com
+www.engadget.com
+raw.githubusercontent.com
+beap1.cb.g01.yahoodns.net
+tt.omtrdc.net
